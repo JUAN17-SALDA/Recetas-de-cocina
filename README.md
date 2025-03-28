@@ -1,4 +1,4 @@
-# Recetas-de-cocina
+# Recetas de cocina
 <html lang="es">
 <head>
     <meta charset="UTF-8">
