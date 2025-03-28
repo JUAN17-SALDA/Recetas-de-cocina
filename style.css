@@ -1,0 +1,20 @@
+table{
+    width: 100%; /*Hace que la tabla ocupe todo el ancho de la pagina */
+    margin: 20px; /*margenes en la tabla */
+}
+body{
+    background-color:rgb(127, 127, 255)
+}
+th td{
+
+    padding: 10px;
+    text-aling: left;
+    border: 1px;
+}
+th{    
+    background-color: rgb(0, 0, 0); /*fondo para el encabezado */
+    color:aliceblue
+}
+tr:hover{
+    background-color:bisque
+}
